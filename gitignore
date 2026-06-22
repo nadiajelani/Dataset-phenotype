@@ -1,0 +1,29 @@
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.webp
+
+# Extracted frames
+frames/
+
+# Dataset files
+calf_video.mp4
+sample_8calves.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
