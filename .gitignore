@@ -24,6 +24,7 @@ frames/
 # Dataset files
 calf_video.mp4
 sample_8calves.png
+*.pkl
 
 # Python cache
 __pycache__/
